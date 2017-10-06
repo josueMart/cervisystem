@@ -1,0 +1,40 @@
+body{
+	background-color: #fff;
+}
+header{
+	background-color: #2c3e50;
+}
+header,h1,h3{
+	color: #fff;
+}
+header a{
+	color: #ecf0f1;
+}
+header a:hover{
+	color: #2c3e50;
+	text-decoration: none;
+	background-color: #fff;
+	padding: 3px;
+	border-radius: 2px;
+
+}
+.module-title{
+	background-color: #16a085;
+	margin-bottom: 0;
+}
+.module-title p{
+	font-size: 1rem;
+	padding-top: 5px;
+	padding-left: 86%;
+	color: #fff;
+}
+.formulario{
+	padding-top: 20px;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-right: 0;
+	border: 2px dotted #2c3e50;
+	border-radius: 10px;
+	padding-bottom: 20px;
+
+}
